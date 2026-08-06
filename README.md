@@ -240,14 +240,8 @@ docker run hello-world
 
 Output :
 
-```
-....
-....
 <img width="1920" height="1014" alt="Screenshot 2026-08-06 170854" src="https://github.com/user-attachments/assets/948b9b47-83ed-42b2-a3aa-d927a2321a6b" />
 
-...
-...
-```
 
 
 ## Great Job, Now start with the examples folder to write your first Dockerfile and move to the next examples. Happy Learning :)
@@ -349,13 +343,13 @@ docker push abhishekf5/my-first-docker-image
 
 Output
 
-```
 <img width="1920" height="1011" alt="Screenshot 2026-08-06 170642" src="https://github.com/user-attachments/assets/fff5f7b2-84f7-4f82-9932-4d83cc2137f6" />
+
+## Web Application runs Successfully
 
 
 <img width="1920" height="1024" alt="Screenshot 2026-08-06 170633" src="https://github.com/user-attachments/assets/c2464262-1dd1-4d5e-98f2-fd4f68b14c51" />
 
 
-```
 
-### You must be feeling like a champ already 
+
