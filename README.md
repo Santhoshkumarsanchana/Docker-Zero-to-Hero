@@ -238,13 +238,13 @@ Use the same command again, to verify that docker is up and running.
 docker run hello-world
 ```
 
-Output should look like:
+Output :
 
 ```
 ....
 ....
-Hello from Docker!
-This message shows that your installation appears to be working correctly.
+<img width="1920" height="1014" alt="Screenshot 2026-08-06 170854" src="https://github.com/user-attachments/assets/948b9b47-83ed-42b2-a3aa-d927a2321a6b" />
+
 ...
 ...
 ```
@@ -350,13 +350,12 @@ docker push abhishekf5/my-first-docker-image
 Output
 
 ```
-Using default tag: latest
-The push refers to repository [docker.io/abhishekf5/my-first-docker-image]
-896818320e80: Pushed
-b8088c305a52: Pushed
-69dd4ccec1a0: Pushed
-c5ff2d88f679: Mounted from library/ubuntu
-latest: digest: sha256:6e49841ad9e720a7baedcd41f9b666fcd7b583151d0763fe78101bb8221b1d88 size: 1157
+<img width="1920" height="1011" alt="Screenshot 2026-08-06 170642" src="https://github.com/user-attachments/assets/fff5f7b2-84f7-4f82-9932-4d83cc2137f6" />
+
+
+<img width="1920" height="1024" alt="Screenshot 2026-08-06 170633" src="https://github.com/user-attachments/assets/c2464262-1dd1-4d5e-98f2-fd4f68b14c51" />
+
+
 ```
 
 ### You must be feeling like a champ already 
