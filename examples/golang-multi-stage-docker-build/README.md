@@ -4,7 +4,12 @@ The main purpose of choosing a golang based applciation to demostrate this examp
 
 So the real advantage of multi stage docker build and distro less images can be understand with a drastic decrease in the Image size.
 
+### 1. Multi-stage Dockerfile
 ![Multi-stage Dockerfile](images/1-Dockerfile.png)
+
+### 2. Fixing the docker.sock permission error
 ![Permission denied error](images/2-permission-error.png)
+### 3. Single-stage build (1.01GB image)
 ![Single-stage build](images/3-single-stage-build.png)
+### 4. Multi-stage build result (3.94MB image)
 ![Multi-stage build and size comparison](images/4-Multi-stage-build-and-size.png)
